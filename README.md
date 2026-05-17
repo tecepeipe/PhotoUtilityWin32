@@ -19,5 +19,5 @@ A WinForms .NET Framework 4.8 photo utility for intelligent grouping, temporal e
 
 ## Notes
 - The project is configured for `.NET Framework 4.8`.
-- `Assets\mobilenetv2.onnx` is a placeholder; replace it with a working model for classification.
+- `Assets\yolo26n-cls.onnx` is the local model; replace it with a working model for classification (like old `mobilenetv2.onnx`).
 - The UI uses a `TreeView` to show grouped events and photo items.
